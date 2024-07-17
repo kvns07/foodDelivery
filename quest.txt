@@ -1,0 +1,17 @@
+why require?
+what is express
+how to export... why paranthesis and not while exporting 
+always use caps while import like Body to use <Body/>
+and for link use same version
+for mongo use mongosh for importing data in the data base 
+arrow function fun(arg,(err,res)=>{})
+how to use promises and "THEN"
+how to use arrow function
+; kaha kaha lagate hai bhai kabhi lagate hai aur kahbi nahi lagat hai 
+middleware
+import vs require
+index.css ke # kab body kab vagera vagera
+why ... is used?
+when to use get and post
+const vs let vs var
+jwt
